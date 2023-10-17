@@ -9,6 +9,6 @@ $pdo= null;
         die();
     }
 
-var_dump($pdo);
+return $pdo;
 
 ?>
